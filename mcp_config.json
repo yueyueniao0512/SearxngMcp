@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "searxng-local-fetch": {
+      "command": "D:\\Exe\\26_01_07\\searxng-docker\\searxng-mcp\\venv_mcp\\Scripts\\python.exe",
+      "args": ["D:\\Exe\\26_01_07\\searxng-docker\\searxng-mcp\\server.py"],
+      "env": {
+        "SEARXNG_URL": "http://127.0.0.1:8081"
+      }
+    }
+  }
+}
